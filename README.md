@@ -1,2 +1,2 @@
 # Vivil
-This is a empty placeholder for a Unity project
+This is a unfinished Unity project. (Vivil Gaming)
